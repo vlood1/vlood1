@@ -11,3 +11,6 @@ I am a current A-Level student and developer in which I am enhancing my programm
   </p>
 
 ---
+
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
