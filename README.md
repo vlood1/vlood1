@@ -7,6 +7,18 @@
 
 I am a current A-Level student and developer in which I am enhancing my programming capabilities through projects that can make my life easier. All projects are made from the ground up, in which they are planned out accordingly, designed, tested and even documented in order to try and resolve any real-world problems at hand. Taking a systematic approach is a method I found that works wonders and truly 'gets the job done'. Currently, I study Law as one of my three A-Levels and am trying to discover how Law and AI may coincide in the future to accelerate legal action. 🌟
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/vladyslav-syavavko/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/vloodmeow"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/users/643337609124511744" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
+
   <p align="left">
     <a href = "https://github.com/vlood1?tab=repositories"
       <img src="[https://img.icons8.com/color/48/000000/github.png](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo)" width="30" height="30" />
