@@ -18,7 +18,7 @@ I am a current A-Level student and developer in which I am enhancing my programm
 
 </p>
 
-## Follow me on Instagram [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Logo" width="40">](https://www.instagram.com/vloodio)
+## Follow me on Instagram:   [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Logo" width="40">](https://www.instagram.com/vloodio)
 
 
 
