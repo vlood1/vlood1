@@ -15,12 +15,11 @@ I am a current A-Level student and developer in which I am enhancing my programm
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/643337609124511744" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Logo" width="60">](https://www.instagram.com/vloodio)
 </p>
 
-# Follow Me on Social Media 🎵📸
 
-[<img src="https://upload.wikimedia.org/wikipedia/en/6/69/TikTok_logo.svg" alt="TikTok Logo" width="100">](https://www.tiktok.com/@vlood1)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Logo" width="100">](https://www.instagram.com/vloodio)
+
 
 
 
