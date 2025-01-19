@@ -20,7 +20,7 @@ I am a current A-Level student and developer in which I am enhancing my programm
 
 ## Follow me on Instagram
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Logo" width="60">](https://www.instagram.com/vloodio)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Logo" width="24">](https://www.instagram.com/vloodio)
 
 
 
