@@ -47,7 +47,6 @@ I am a current A-Level student and developer in which I am enhancing my programm
       
   </p>
 
-[![My Repos](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/vlood1?tab=repositories)
 
 ---
   <h3>👨‍💻 Programming and Markup Languages</h3>
