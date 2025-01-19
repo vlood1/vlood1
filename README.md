@@ -1,4 +1,7 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=100&size=33&pause=1000&color=F7E109&width=435&lines=%F0%9F%A4%BA+Vladyslav+Syavavko+)](https://git.io/typing-svg)
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=33&pause=1000&width=435&lines=Vladyslav+Syavavko+%F0%9F%A4%BA" alt="Typing SVG" /></a>
+</p>
 
 **Cyber Artist / A-Level Student**
 
