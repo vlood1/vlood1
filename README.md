@@ -6,7 +6,7 @@ I am a current A-Level student and developer in which I am enhancing my programm
 
   <p align="left">
     <a href = "https://github.com/vlood1?tab=repositories"
-    src = "https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
+      src = "https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
   </p>
 
