@@ -23,3 +23,15 @@ I am a current A-Level student and developer in which I am enhancing my programm
       <a href="https://github.com/search?q=user%3Avlood1+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Avlood1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
+
+-
+
+ <h3>🗄️ Databases and Cloud Hosting</h3>
+
+  <p>
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
+      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+  </p>
